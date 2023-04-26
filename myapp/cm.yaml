@@ -3,5 +3,6 @@ kind: ConfigMap
 metadata: 
   name: myapp
 data: 
-  index.html: 
-    This is a custom app!
+  index.html: |
+    This is a KnappT custom app!
+    Mutiline string update Apr 26, 2023
