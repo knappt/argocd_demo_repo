@@ -4,5 +4,6 @@ metadata:
   name: myapp
 data: 
   index.html: |
-    This is a KnappT custom app!
-    Mutiline string update Apr 26, 2023
+    <html><h1>This is a KnappT custom app!</h1>
+    <p>Mutiline string update <b>Apr 26, 2023</b></p>
+    </html>
