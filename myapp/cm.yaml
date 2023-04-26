@@ -5,5 +5,6 @@ metadata:
 data: 
   index.html: |
     <html><h1>This is a KnappT custom app!</h1>
-    <p>Mutiline string update <b>Apr 26, 2023</b></p>
+    <p>Mutiline string update <b>Apr 26, 2023</b>
+    <br>Updated 11:28</br> </p>
     </html>
