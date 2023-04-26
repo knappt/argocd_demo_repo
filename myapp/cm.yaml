@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata: 
   name: myapp
 data: 
-  index.html: |
+  index.html: 
     This is a custom app!
