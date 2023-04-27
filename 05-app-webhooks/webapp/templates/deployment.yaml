@@ -17,6 +17,9 @@ spec:
     metadata:
       {{- with .Values.podAnnotations }}
       annotations:
+        gitops.training.sass.ro/appVersion: {{ .Chart.AppVersion |
+      {{- with .Values.podAnnotations }}
+      annotations:
         {{- toYaml . | nindent 8 }}
       {{- end }}
       labels:
